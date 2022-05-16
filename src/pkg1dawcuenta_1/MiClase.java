@@ -10,5 +10,6 @@ package pkg1dawcuenta_1;
  * @author javier
  */
 public class MiClase {
+    int code = 0;
     
 }
